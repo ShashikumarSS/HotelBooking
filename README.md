@@ -1,0 +1,1 @@
+The aim of this project is to develop a robust, user-friendly and efficient software solution that facilitates the management of hotel bookings, availability of different types of rooms (standard, family rooms and suit rooms, etc) 
